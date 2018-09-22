@@ -23,7 +23,7 @@ namespace Yksikkötestausharjoitus.Tests
         [TestMethod()]
         public void HeTuOkTest2()
         {
-            string hetu = "120177-1A22";
+            string hetu = "120177-1A23";
             bool expected = false;
             bool actual = HeTuOk(hetu);
             Assert.AreEqual(expected, actual, "Joku pielessä, pitäisi olla ok hetu");
