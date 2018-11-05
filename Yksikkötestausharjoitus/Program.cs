@@ -16,6 +16,9 @@ namespace Yksikkötestausharjoitus
             Console.WriteLine(HeTuOk(hetu));
         }
 
+
+        //MOI!!!
+
         public static bool HeTuOk(string hetu)
         {
             string pvm;
